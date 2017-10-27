@@ -81,7 +81,7 @@
 
 QQ: 562168176
 
-邮箱: zombiebrandg@gmal.com
+邮箱: zombiebrandg@gmail.com
 
 GitHub:https://github.com/ZombrBrand
 
