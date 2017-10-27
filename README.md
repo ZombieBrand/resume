@@ -24,6 +24,7 @@
 
 
 
+
 #### 2. 响应式页面
 
 使用原生JS实现懒加载、自动加载、预加载、自动轮播，使用媒体查询、Flex 布局构建响应式页面
@@ -31,6 +32,7 @@
 技术栈：原生JS+ npm + ES6 + git + http-server
 
 #### [点击查看](https://zombrbrand.github.io/simple-demo/index.html)
+
 
 
 
@@ -44,13 +46,29 @@
 
 
 
+
 #### 4. AJAX-demo
 
 #### [点击查看地址](https://zombrbrand.github.io/ajax-demo/ajax-demo.html) 需要clone到本地然后运行node.js服务器
 
 
 
-#### 5.  网易云音乐(手机端)  — 目前还在制作当中并未完成
+
+#### 5. 精美tab组件
+ 
+#### [点击查看地址](https://zombrbrand.github.io/tab-demo1/index.html)
+
+
+
+
+#### 6. 多样式popover组件
+ 
+#### [点击查看地址](https://zombrbrand.github.io/popover-demo1/index.html)
+
+
+
+
+#### 7.  网易云音乐(手机端)  — 目前还在制作当中并未完成
 
 #### [点击查看](https://zombrbrand.github.io/163music-demo/home.html) 注意用手机端模式查看
 
