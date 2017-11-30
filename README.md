@@ -6,8 +6,6 @@
 
 学历: 专科
 
-期望薪资: 7k ~9k
-
 期望城市: 北京
 
 技术博客: https://github.com/ZombrBrand/blogs/issues
