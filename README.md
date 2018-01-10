@@ -72,7 +72,7 @@
 <hr/>
 
 
-#### 7.  网易云音乐(手机端)  — 目前还在制作当中并未完成
+#### 7.  网易云音乐(手机端)
 
 #### [点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html) 注意用手机端模式查看
 
