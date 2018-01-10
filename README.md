@@ -48,7 +48,19 @@
 <hr/>
 
 
-#### 4. AJAX-demo
+#### 4. 网易云音乐(手机端)
+
+#### [点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html) 注意用手机端模式查看
+
+<hr/>
+
+#### 5. 苹果官网轮播
+
+#### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
+
+<hr/>
+
+#### 6. AJAX-demo
 
 #### [点击查看地址](https://zombrbrand.github.io/ajax-demo/ajax-demo.html) 需要clone到本地然后运行node.js服务器
 
@@ -56,7 +68,7 @@
 <hr/>
 
 
-#### 5. 精美tab组件
+#### 7. 精美tab组件
  
 #### [点击查看地址](https://zombrbrand.github.io/tab-demo1/index.html)
 
@@ -64,18 +76,9 @@
 <hr/>
 
 
-#### 6. 多样式popover组件
+#### 8. 多样式popover组件
 
 #### [点击查看地址](https://zombrbrand.github.io/popover-demo1/index.html)
-
-
-<hr/>
-
-
-#### 7.  网易云音乐(手机端)
-
-#### [点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html) 注意用手机端模式查看
-
 
 
 ## 我的技能
