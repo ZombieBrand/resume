@@ -16,9 +16,9 @@
 
 #### 1. 英雄联盟LOL官网仿制
 
-使用原生JS + jQuery + HTML5 + CSS3
 像素级还原LOL页面,实现复杂页面的tab切换,视频弹窗,轮播组件,以及复杂css样式的实现
 
+技术栈: 原生JS + jQuery + HTML5 + CSS3
 
 #### [点击查看](https://zombrbrand.github.io/lol-demo/lol.html)
 
