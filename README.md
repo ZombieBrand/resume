@@ -54,7 +54,7 @@
 
 手机端网易云音乐，具备播放、暂停、动态显示歌词的功能，使用leancloud作为数据库 实现搜索歌曲并点击跳转到相应的歌曲页面，在不同Retina屏幕下实现1px物理像素，通过函数限流 处理请求重复发送。用webpack进行打包，以应对复杂场景进行性能优化。
 
-技术栈：JQuery + BOM + MVC + Leancloud + webpack + CDN
+技术栈：JQuery + BOM  + Leancloud + webpack + CDN
 
 #### [点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html) 注意用手机端模式查看
 
