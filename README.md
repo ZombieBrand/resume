@@ -30,7 +30,7 @@
 
 使用原生JS实现懒加载,自动加载,预加载，使用媒体查询,AJAX,Flex 布局构建响应式页面
 
-技术栈：原生JS+ npm + ES6 + git + http-server
+技术栈：原生JS+ npm + ES6 + git + http-server + AJAX
 
 #### [点击查看](https://zombrbrand.github.io/simple-demo/index.html)
 
