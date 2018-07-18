@@ -13,8 +13,14 @@
 
 
 ## 项目经历
+#### 1. 西子电梯预警运维平台
+主要技术栈bootstrap+jQuery,实现后端数据实时更新,历史查询以及数据可视化
+技术组件:echarts实现数据可视化,Datatables实现table翻页,排序功能
+![首页登录](https://i.loli.net/2018/07/18/5b4f4a6b9c1e5.png)
+![首页](https://i.loli.net/2018/07/18/5b4f4a6af214b.jpg)
+![数据可视化](https://i.loli.net/2018/07/18/5b4f4a6b654e6.png)
 
-#### 1. 英雄联盟LOL官网仿制
+#### 2. 英雄联盟LOL官网仿制
 
 像素级还原LOL页面,实现复杂页面的tab切换,视频弹窗,轮播组件,以及复杂css样式的实现
 
@@ -26,7 +32,7 @@
 <hr/>
 
 
-#### 2. 响应式页面
+#### 3. 响应式页面
 
 使用原生JS实现懒加载,自动加载,预加载，使用媒体查询,AJAX,Flex 布局构建响应式页面
 
@@ -38,7 +44,7 @@
 <hr/>
 
 
-#### 3. 手机Canvas画板(手机端)
+#### 4. 手机Canvas画板(手机端)
 
 使用原生 JS，借助 Canvas API 以及svg iconfont制作的手机画板。包含橡皮擦、一键擦除、保存图片的功能，期间主要难点在于如何确定上一个触点的位置以及消除画笔锯齿，所有功能基本上由canvas原生API实现。
 
@@ -50,7 +56,7 @@
 <hr/>
 
 
-#### 4. 网易云音乐(手机端)
+#### 5. 网易云音乐(手机端)
 
 手机端网易云音乐，具备播放、暂停、动态显示歌词的功能，使用leancloud作为数据库 实现搜索歌曲并点击跳转到相应的歌曲页面，在不同Retina屏幕下实现1px物理像素，通过函数限流 处理请求重复发送。用webpack进行打包，以应对复杂场景进行性能优化。
 
@@ -60,13 +66,13 @@
 
 <hr/>
 
-#### 5. 苹果官网轮播
+#### 6. 苹果官网轮播
 
 #### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
 
 <hr/>
 
-#### 6. AJAX-demo
+#### 7. AJAX-demo
 
 #### [点击查看地址](https://zombrbrand.github.io/ajax-demo/ajax-demo.html) 需要clone到本地然后运行node.js服务器
 
@@ -74,7 +80,7 @@
 <hr/>
 
 
-#### 7. 精美tab组件
+#### 8. 精美tab组件
 
 #### [点击查看地址](https://zombrbrand.github.io/tab-demo1/index.html)
 
@@ -82,7 +88,7 @@
 <hr/>
 
 
-#### 8. 多样式popover组件
+#### 9. 多样式popover组件
 
 #### [点击查看地址](https://zombrbrand.github.io/popover-demo1/index.html)
 
