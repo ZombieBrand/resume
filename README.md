@@ -14,12 +14,16 @@
 
 ## 项目经历
 #### 1. 西子电梯预警运维平台
-主要技术栈bootstrap+jQuery,实现后端数据实时更新,历史查询以及数据可视化
+主要技术栈bootstrap+jQuery,实现功能历史查询以及数据可视化,通过Ajax与后端进行数据交互，实现了大量的前后端分离，以及复杂的业务逻辑。
 技术组件:echarts实现数据可视化,Datatables实现table翻页,排序功能
 ![首页登录](https://i.loli.net/2018/07/18/5b4f4a6b9c1e5.png)
 ![首页](https://i.loli.net/2018/07/18/5b4f4a6af214b.jpg)
 ![数据可视化](https://i.loli.net/2018/07/18/5b4f4a6b654e6.png)
 ![电梯故障趋势](https://i.loli.net/2018/07/18/5b4f4c4c7e6d3.png)
+
+
+<hr/>
+
 
 #### 2. 英雄联盟LOL官网仿制
 
