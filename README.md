@@ -19,6 +19,7 @@
 ![首页登录](https://i.loli.net/2018/07/18/5b4f4a6b9c1e5.png)
 ![首页](https://i.loli.net/2018/07/18/5b4f4a6af214b.jpg)
 ![数据可视化](https://i.loli.net/2018/07/18/5b4f4a6b654e6.png)
+![电梯故障趋势](https://i.loli.net/2018/07/18/5b4f4c4c7e6d3.png)
 
 #### 2. 英雄联盟LOL官网仿制
 
