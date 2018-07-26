@@ -66,14 +66,19 @@
 #### [点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html) 注意用手机端模式查看
 
 <hr/>
+#### 6. 豆瓣电影H5(手机端)
+手机端豆瓣电影，具备搜索电影排行榜，获取相关信息介绍。使用豆瓣公共API获取数据库。通过函数限流处理请求重复发送，利用懒加载实现下拉加载更多数据，用webpack进行打包对性能进行优化.
 
-#### 6. 苹果官网轮播
+#### [点击查看](https://zombrbrand.github.io/doubanMobile/dist)
+
+<hr/>
+#### 7. 苹果官网轮播
 
 #### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
 
 <hr/>
 
-#### 7. AJAX-demo
+#### 8. AJAX-demo
 
 #### [点击查看地址](https://zombrbrand.github.io/ajax-demo/ajax-demo.html) 需要clone到本地然后运行node.js服务器
 
@@ -81,7 +86,7 @@
 <hr/>
 
 
-#### 8. 精美tab组件
+#### 9. 精美tab组件
 
 #### [点击查看地址](https://zombrbrand.github.io/tab-demo1/index.html)
 
@@ -89,7 +94,7 @@
 <hr/>
 
 
-#### 9. 多样式popover组件
+#### 10. 多样式popover组件
 
 #### [点击查看地址](https://zombrbrand.github.io/popover-demo1/index.html)
 
