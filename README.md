@@ -66,6 +66,7 @@
 #### [点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html) 注意用手机端模式查看
 
 <hr/>
+
 #### 6. 豆瓣电影H5(手机端)
 手机端豆瓣电影，具备搜索电影排行榜，获取相关信息介绍。使用豆瓣公共API获取数据库。通过函数限流处理请求重复发送，利用懒加载实现下拉加载更多数据，用webpack进行打包对性能进行优化
 
@@ -74,6 +75,7 @@
 #### [点击查看](https://zombrbrand.github.io/doubanMobile/dist)
 
 <hr/>
+
 #### 7. 苹果官网轮播
 
 #### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
@@ -110,7 +112,7 @@
   - 使用动态 REM 适配所有手机屏幕
   - 手机端页面调试
 - 掌握原生Javascript、熟练使用 jQuery、JSON
-  - 掌握一些重要概念如原型、闭包、原型链、面向对象、异步等。 熟悉使用ES6部分语法。
+  - 掌握一些重要概念如原型、闭包、原型链、面向对象、异步等。 熟悉使用ES6部分语法。
   - 熟练使用 jQuery，熟悉 jQuery 常见 API，并可以利用JS/jQuery 封装常用插件。
   - 能够进行模块化编程，使用Gulp、webpack多种方式处理工作流
 - 熟悉浏览器渲染原理，熟悉前端性能优化策略。
@@ -130,5 +132,4 @@ QQ: 562168176
 邮箱: zombiebrandg@gmail.com
 
 GitHub:https://github.com/ZombrBrand
-
 
