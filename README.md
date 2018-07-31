@@ -76,13 +76,22 @@
 
 <hr/>
 
-#### 7. 苹果官网轮播
+#### 7. 瀑布流
+瀑布流具备载入loading，无限懒加载+函数节流，改变视口大小从新调整布局
+
+技术栈：jQuery  , 使用面向对象写法
 
 #### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
 
 <hr/>
 
-#### 8. AJAX-demo
+#### 8. 苹果官网轮播
+
+#### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
+
+<hr/>
+
+#### 9. AJAX-demo
 
 #### [点击查看地址](https://zombrbrand.github.io/ajax-demo/ajax-demo.html) 需要clone到本地然后运行node.js服务器
 
@@ -90,7 +99,7 @@
 <hr/>
 
 
-#### 9. 精美tab组件
+#### 10. 精美tab组件
 
 #### [点击查看地址](https://zombrbrand.github.io/tab-demo1/index.html)
 
