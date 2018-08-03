@@ -70,7 +70,7 @@
 #### 6. 豆瓣电影H5(手机端)
 手机端豆瓣电影，具备搜索电影排行榜，获取相关信息介绍。使用豆瓣公共API获取数据库。通过函数限流处理请求重复发送，利用懒加载实现下拉加载更多数据，用webpack进行打包对性能进行优化
 
-技术栈：jQuery + webpack
+技术栈：jQuery + webpack，面向对象
 
 #### [点击查看](https://zombrbrand.github.io/doubanMobile/dist)
 
@@ -79,7 +79,7 @@
 #### 7. 瀑布流
 瀑布流具备载入loading，无限懒加载+函数节流，改变视口大小从新调整布局
 
-技术栈：jQuery
+技术栈：jQuery，面向对象
 
 #### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
 
