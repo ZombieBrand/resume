@@ -85,16 +85,16 @@
 
 <hr/>
 
-#### 8. 苹果官网轮播
+#### 8.组件化轮播
+进行轮播封装组件化，无限轮播+自动轮播，使用面向对象继承方法实现
+
+技术栈:jQuery,面向对象继承
+
+#### [点击查看](https://zombrbrand.github.io/component-carousel/)
+
+#### 9. 苹果官网轮播
 
 #### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
-
-<hr/>
-
-#### 9. AJAX-demo
-
-#### [点击查看地址](https://zombrbrand.github.io/ajax-demo/ajax-demo.html) 需要clone到本地然后运行node.js服务器
-
 
 <hr/>
 
@@ -141,4 +141,3 @@ QQ: 562168176
 邮箱: zombiebrandg@gmail.com
 
 GitHub:https://github.com/ZombrBrand
-
