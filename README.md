@@ -91,7 +91,7 @@
 
 技术栈：jQuery，面向对象
 
-#### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
+#### [点击查看](https://zombrbrand.github.io/waterfall-/index.html)
 
 <hr/>
 
