@@ -13,6 +13,14 @@
 
 
 ## 项目经历
+#### 0. todo-mvc
+实现一个简单的todomvc支持添加删除和筛选。
+
+主要技术栈vue+webpack
+
+#### [点击查看](http://zombiebrand.coding.me/todomvc/dist)
+
+
 #### 1. Resume-Editor
 实现登录注册,添加删除简历信息,预览下载功能,支持用户简历信息更新功能.
 
