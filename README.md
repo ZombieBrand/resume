@@ -21,12 +21,10 @@
 #### [点击查看](https://zombrbrand.github.io/vueTodo-mvc/dist/index.html)
 
 
-#### 1. Resume-Editor
-实现登录注册,添加删除简历信息,预览下载功能,支持用户简历信息更新功能.
+#### 1. vue-youzan
+将有赞商城已vue+webpack+vuex+vueRouter+axios+mint-ui+swiper重构,实现电商基本功能,数据使用rap2mock模拟后端服务器,由于gihub默认阻止http协议请求,所以需要clon本地`npm run dev`查看
 
-主要技术栈vue+webpack+element-ui+leancloud
-
-#### [点击查看](http://zombiebrand.coding.me/vueResume/dist)
+#### [点击查看](https://github.com/ZombrBrand/vueyouzan)
 
 <hr/>
 
