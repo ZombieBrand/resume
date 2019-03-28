@@ -8,7 +8,7 @@
 
 期望城市: 北京
 
-技术博客: https://github.com/ZombrBrand/blogs/issues
+技术博客: https://zombrbrand.github.io/ZombieBrand.github.io/
 
 
 
