@@ -22,9 +22,9 @@
 
 
 #### 1. vue-youzan
-将有赞商城已vue+webpack+vuex+vueRouter+axios+mint-ui+swiper重构,实现电商基本功能,数据使用rap2mock模拟后端服务器,由于gihub默认阻止http协议请求,所以需要clon本地`npm run dev`查看
+将有赞商城已vue+webpack+vuex+vueRouter+axios+mint-ui+swiper重构,实现电商基本功能,数据使用rap2mock模拟后端服务器
 
-#### [点击查看](https://github.com/ZombrBrand/vueyouzan)
+#### [点击查看](http://zombiebrand.coding.me/vue_youzan/dist/)
 
 <hr/>
 
