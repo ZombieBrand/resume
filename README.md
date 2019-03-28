@@ -18,7 +18,7 @@
 
 主要技术栈vue+webpack
 
-#### [点击查看](http://zombiebrand.coding.me/todomvc/dist)
+#### [点击查看](https://zombrbrand.github.io/vueTodo-mvc/dist/index.html)
 
 
 #### 1. Resume-Editor
