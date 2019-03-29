@@ -23,8 +23,15 @@
 
 #### 1. vue-youzan
 将有赞商城已vue+webpack+vuex+vueRouter+axios+mint-ui+swiper重构,实现电商基本功能,数据使用rap2mock模拟后端服务器
+主要实现功能:
+  1. 主页实现swiper轮播,分类页实现内容分类获取信息
+  2. 商品页实现swiper轮播介绍,以及商品介绍和本店成交信息,购买相关操作(包含动画以及防止购买试滑动页面,数量添加等)
+  3. 购物车页面实现编辑商品店铺功能,合计金额以及相关动画效果.
+  4. 个人详情页面实现地址管理相关功能.
+  *后台数据是由MOCK生成*
 
 #### [点击查看](http://zombiebrand.coding.me/vue_youzan/dist/)
+#### [源码地址](https://github.com/ZombrBrand/vueyouzan)(由于最近腾讯服务器不稳定可能造成无法预览,可以前往源码地址clone本地,npm install,npm run dev运行查看)
 
 <hr/>
 
@@ -32,7 +39,7 @@
 #### 2. 电梯物联平台
 主要技术栈bootstrap+jQuery,实现功能历史查询以及数据可视化,通过Ajax与后端进行数据交互，实现了大量的前后端分离，以及复杂的业务逻辑。
 技术组件:echarts实现数据可视化,Datatables实现table翻页,排序功能
-
+*由于原公司保密协议代码无法展示,可以联系本人展示相关页面*
 
 <hr/>
 
