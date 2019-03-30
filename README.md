@@ -31,9 +31,8 @@
   
   *后台数据是由MOCK生成*
 
-#### [点击查看](http://zombiebrand.coding.me/vue_youzan/dist/)
-#### [源码地址](https://github.com/ZombrBrand/vueyouzan)(由于最近腾讯服务器不稳定可能造成无法预览,可以前往源码地址clone本地,npm install,npm run dev运行查看)
-
+#### [点击查看](https://zombrbrand.github.io/vueyouzan/dist/)
+#### [源码地址](https://github.com/ZombrBrand/vueyouzan)
 <hr/>
 
 
