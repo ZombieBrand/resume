@@ -115,7 +115,7 @@
 技术栈：jQuery，面向对象
 
 #### [点击查看](https://zombrbrand.github.io/waterfall-/index.html)
-
+#### [源码查看](https://github.com/ZombrBrand/waterfall-)
 <hr/>
 
 #### 9.组件化轮播 PC端
@@ -125,6 +125,7 @@
 技术栈:jQuery,面向对象继承
 
 #### [点击查看](https://zombrbrand.github.io/component-carousel/)
+#### [源码查看](https://github.com/ZombrBrand/component-carousel)
 
 #### 10. 苹果官网轮播 PC端
 
@@ -145,6 +146,9 @@
 
 #### [点击查看地址](https://zombrbrand.github.io/popover-demo1/index.html)
 
+#### 12. 自制组件tab切换
+
+#### [源码地址](https://github.com/ZombrBrand/component-tab)
 
 ## 我的技能
 
