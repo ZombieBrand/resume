@@ -60,7 +60,7 @@
 技术栈: 原生JS + jQuery + HTML5 + CSS3
 
 #### [点击查看](https://zombrbrand.github.io/lol-demo/lol.html)
-
+#### [源码查看](https://github.com/ZombrBrand/lol-demo)
 
 <hr/>
 
@@ -72,7 +72,7 @@
 技术栈：原生JS+ npm + ES6 + git + http-server + AJAX
 
 #### [点击查看](https://zombrbrand.github.io/simple-demo/index.html)
-
+#### [点击查看](https://github.com/ZombrBrand/simple-demo)
 
 <hr/>
 
@@ -84,7 +84,7 @@
 技术栈：Canvas + JS+动态rem
 
 #### [点击查看](https://zombrbrand.github.io/drawing-board/drawing-board.html) (用手机模式查看)
-
+#### [源码查看](https://github.com/ZombrBrand/drawing-board)
 
 <hr/>
 
@@ -95,7 +95,8 @@
 
 技术栈：JQuery + BOM  + Leancloud + webpack + CDN
 
-#### [点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html) 注意用手机端模式查看
+#### [点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html)
+#### [源码地址](https://github.com/ZombrBrand/163music-demo)
 
 <hr/>
 
@@ -118,6 +119,7 @@
 <hr/>
 
 #### 9.组件化轮播 PC端
+
 进行轮播封装组件化，无限轮播+自动轮播，使用面向对象继承方法实现
 
 技术栈:jQuery,面向对象继承
@@ -127,14 +129,14 @@
 #### 10. 苹果官网轮播 PC端
 
 #### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
-
+#### [源码查看](https://github.com/ZombrBrand/appleCarousel-demo)
 <hr/>
 
 
 #### 10. 精美tab组件 PC端
 
 #### [点击查看地址](https://zombrbrand.github.io/tab-demo1/index.html)
-
+#### [源码地址](https://github.com/ZombrBrand/popover-demo1)
 
 <hr/>
 
