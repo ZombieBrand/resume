@@ -13,7 +13,7 @@
 
 
 ## 项目经历
-#### 0. todo-mvc
+#### 0. todo-mvc PC端
 实现一个简单的todomvc支持添加删除和筛选。
 
 主要技术栈vue+webpack
@@ -23,7 +23,7 @@
 
 <hr/>
 
-#### 1. vue-youzan
+#### 1. vue-youzan 移动端
 将有赞商城已vue+webpack+vuex+vueRouter+axios+mint-ui+swiper重构,实现电商基本功能,数据使用rap2mock模拟后端服务器
 主要实现功能:
   1. 主页实现swiper轮播,分类页实现内容分类获取信息
@@ -38,16 +38,22 @@
 <hr/>
 
 
-#### 2. 电梯物联平台
+#### 2. 电梯物联平台 PC端
 主要技术栈bootstrap+jQuery,实现功能历史查询以及数据可视化,通过Ajax与后端进行数据交互，实现了大量的前后端分离，以及复杂的业务逻辑。
 技术组件:echarts实现数据可视化,Datatables实现table翻页,排序功能
 
 *由于原公司保密协议代码无法展示,可以联系本人展示相关页面*
 
+#### 2.1 汇投网
+
+主要技术栈html+css+javascript,实现用户登录,数据展示等功能
+
+#### [点击查看](https://www.huitoubj.com/)
+
 <hr/>
 
 
-#### 3. 英雄联盟LOL官网仿制
+#### 3. 英雄联盟LOL官网仿制 移动端
 
 像素级还原LOL页面,实现复杂页面的tab切换,视频弹窗,轮播组件,以及复杂css样式的实现
 
@@ -71,7 +77,7 @@
 <hr/>
 
 
-#### 5. 手机Canvas画板(手机端)
+#### 5. 手机Canvas画板(移动端)
 
 使用原生 JS，借助 Canvas API 以及svg iconfont制作的手机画板。包含橡皮擦、一键擦除、保存图片的功能，期间主要难点在于如何确定上一个触点的位置以及消除画笔锯齿，所有功能基本上由canvas原生API实现。
 
@@ -83,7 +89,7 @@
 <hr/>
 
 
-#### 6. 网易云音乐(手机端)
+#### 6. 网易云音乐(移动端)
 
 手机端网易云音乐，具备播放、暂停、动态显示歌词的功能，使用leancloud作为数据库 实现搜索歌曲并点击跳转到相应的歌曲页面，在不同Retina屏幕下实现1px物理像素，通过函数限流 处理请求重复发送。用webpack进行打包，以应对复杂场景进行性能优化。
 
@@ -93,7 +99,7 @@
 
 <hr/>
 
-#### 7. 豆瓣电影H5(手机端)
+#### 7. 豆瓣电影H5(移动端)
 手机端豆瓣电影，具备搜索电影排行榜，获取相关信息介绍。使用豆瓣公共API获取数据库。通过函数限流处理请求重复发送，利用懒加载实现下拉加载更多数据，用webpack进行打包对性能进行优化
 
 技术栈：jQuery + webpack，面向对象
@@ -102,7 +108,7 @@
 
 <hr/>
 
-#### 8. 瀑布流
+#### 8. 瀑布流 PC端
 瀑布流具备载入loading，无限懒加载+函数节流，改变视口大小从新调整布局
 
 技术栈：jQuery，面向对象
@@ -111,21 +117,21 @@
 
 <hr/>
 
-#### 9.组件化轮播
+#### 9.组件化轮播 PC端
 进行轮播封装组件化，无限轮播+自动轮播，使用面向对象继承方法实现
 
 技术栈:jQuery,面向对象继承
 
 #### [点击查看](https://zombrbrand.github.io/component-carousel/)
 
-#### 10. 苹果官网轮播
+#### 10. 苹果官网轮播 PC端
 
 #### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
 
 <hr/>
 
 
-#### 10. 精美tab组件
+#### 10. 精美tab组件 PC端
 
 #### [点击查看地址](https://zombrbrand.github.io/tab-demo1/index.html)
 
@@ -133,7 +139,7 @@
 <hr/>
 
 
-#### 11. 多样式popover组件
+#### 11. 多样式popover组件 PC端
 
 #### [点击查看地址](https://zombrbrand.github.io/popover-demo1/index.html)
 
