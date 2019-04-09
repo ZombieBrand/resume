@@ -19,7 +19,9 @@
 主要技术栈vue+webpack
 
 #### [点击查看](https://zombrbrand.github.io/vueTodo-mvc/dist/index.html)
+#### [源码地址](https://github.com/ZombrBrand/vueTodo-mvc)
 
+<hr/>
 
 #### 1. vue-youzan
 将有赞商城已vue+webpack+vuex+vueRouter+axios+mint-ui+swiper重构,实现电商基本功能,数据使用rap2mock模拟后端服务器
@@ -144,7 +146,7 @@
 - 移动端页面
   - 使用动态 REM 适配所有手机屏幕
   - 手机端页面调试
-- 掌握原生Javascript、熟练使用 jQuery、JSON
+- 掌握原生Javascript、ES6、熟练使用 jQuery、JSON
   - 掌握一些重要概念如原型、闭包、原型链、面向对象、异步等。 熟悉使用ES6部分语法。
   - 熟练使用 jQuery，熟悉 jQuery 常见 API，并可以利用JS/jQuery 封装常用插件。
   - 能够进行模块化编程，使用Gulp、webpack多种方式处理工作流
