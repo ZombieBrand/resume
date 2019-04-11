@@ -150,7 +150,7 @@
 
 #### [源码地址](https://github.com/ZombrBrand/component-tab)
 
-#### 13.自适应音乐电台
+#### 13. 自适应音乐电台
 
 项目功能介绍： 页面的响应式，音乐的播放 暂停 下一曲，不同音乐类型数据的获取,数据过多,切换下一页，歌词的处理
 
@@ -162,6 +162,10 @@
 技术栈关键字：HTML + CSS3 + +JavaScript+ jQuery + AJAX+ 响应式+面向对象+事件中心
 
 #### [源码地址](https://github.com/ZombrBrand/playerMusice)
+
+#### 14. 瀑布流新闻网站
+
+#### [预览地址](http://jsbin.com/zobinoyite/2/edit?html,output)
 
 ## 我的技能
 
