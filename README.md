@@ -11,8 +11,8 @@
 
 
 
-##项目经历
-####中育未来(北京)科技有限公司（教育/规模500～1000） 					        	2019-04~至今
+## 项目经历
+#### 中育未来(北京)科技有限公司（教育/规模500～1000） 					        	2019-04~至今
 **项目：**
 
 [中育未来官网PC](http://www.t-xianghu.com)
@@ -111,7 +111,7 @@
 
 ![预览地址](https://i.loli.net/2020/04/22/I6J8jQ7wY5qN9P4.jpg)
 
-####vue-youzan移动端
+#### vue-youzan移动端
 
 将有赞商城已vue+webpack+vuex+vueRouter+axios+mint-ui+swiper重构,实现电商基本功能,数据使用rap2mock模拟后端服务器
 主要实现功能:
@@ -124,135 +124,135 @@
 
 ![预览地址](https://i.loli.net/2020/04/22/wmTqSlXODnoY98u.png)
 
-####[点击查看](http://jrxlp3.coding-pages.com/)
-####[源码地址](https://github.com/ZombrBrand/vueyouzan)
+#### [点击查看](http://jrxlp3.coding-pages.com/)
+#### [源码地址](https://github.com/ZombrBrand/vueyouzan)
 <hr/>
-####todo-mvcPC端
+#### todo-mvcPC端
 
 实现一个简单的todomvc支持添加删除和筛选。
 
 主要技术栈vue+webpack
 
-####[点击查看](https://zombrbrand.github.io/vueTodo-mvc/dist/index.html)
+#### [点击查看](https://zombrbrand.github.io/vueTodo-mvc/dist/index.html)
 
-####[源码地址](https://github.com/ZombrBrand/vueTodo-mvc)
+#### [源码地址](https://github.com/ZombrBrand/vueTodo-mvc)
 
 <hr/>
 
 
-####电梯物联平台PC端
+#### 电梯物联平台PC端
 主要技术栈bootstrap+jQuery,实现功能历史查询以及数据可视化,通过Ajax与后端进行数据交互，实现了大量的前后端分离，以及复杂的业务逻辑。
 技术组件:echarts实现数据可视化,Datatables实现table翻页,排序功能
 
 *由于原公司保密协议代码无法展示,可以联系本人展示相关页面*
 
-####汇投网
+#### 汇投网
 
 主要技术栈html+css+javascript,实现用户登录,数据展示等功能
 
-####[点击查看](https://www.huitoubj.com/)
+#### [点击查看](https://www.huitoubj.com/)
 
 <hr/>
 
 
-####英雄联盟LOL官网仿制移动端
+#### 英雄联盟LOL官网仿制移动端
 
 像素级还原LOL页面,实现复杂页面的tab切换,视频弹窗,轮播组件,以及复杂css样式的实现
 
 技术栈:原生JS+jQuery+HTML5+CSS3
 
-####[点击查看](https://zombrbrand.github.io/lol-demo/lol.html)
-####[源码查看](https://github.com/ZombrBrand/lol-demo)
+#### [点击查看](https://zombrbrand.github.io/lol-demo/lol.html)
+#### [源码查看](https://github.com/ZombrBrand/lol-demo)
 
 <hr/>
 
 
-####响应式页面
+#### 响应式页面
 
 使用原生JS实现懒加载,自动加载,预加载，使用媒体查询,AJAX,Flex布局构建响应式页面
 
 技术栈：原生JS+npm+ES6+git+http-server+AJAX
 
-####[点击查看](https://zombrbrand.github.io/simple-demo/index.html)
-####[点击查看](https://github.com/ZombrBrand/simple-demo)
+#### [点击查看](https://zombrbrand.github.io/simple-demo/index.html)
+#### [点击查看](https://github.com/ZombrBrand/simple-demo)
 
 <hr/>
 
 
-####手机Canvas画板(移动端)
+#### 手机Canvas画板(移动端)
 
 使用原生JS，借助CanvasAPI以及svgiconfont制作的手机画板。包含橡皮擦、一键擦除、保存图片的功能，期间主要难点在于如何确定上一个触点的位置以及消除画笔锯齿，所有功能基本上由canvas原生API实现。
 
 技术栈：Canvas+JS+动态rem
 
-####[点击查看](https://zombrbrand.github.io/drawing-board/drawing-board.html)(用手机模式查看)
-####[源码查看](https://github.com/ZombrBrand/drawing-board)
+#### [点击查看](https://zombrbrand.github.io/drawing-board/drawing-board.html)(用手机模式查看)
+#### [源码查看](https://github.com/ZombrBrand/drawing-board)
 
 <hr/>
 
 
-####网易云音乐(移动端)
+#### 网易云音乐(移动端)
 
 手机端网易云音乐，具备播放、暂停、动态显示歌词的功能，使用leancloud作为数据库实现搜索歌曲并点击跳转到相应的歌曲页面，在不同Retina屏幕下实现1px物理像素，通过函数限流处理请求重复发送。用webpack进行打包，以应对复杂场景进行性能优化。
 
 技术栈：JQuery+BOM+Leancloud+webpack+CDN
 
-####[点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html)
-####[源码地址](https://github.com/ZombrBrand/163music-demo)
+#### [点击查看](https://zombrbrand.github.io/163music-demo/dist/home.html)
+#### [源码地址](https://github.com/ZombrBrand/163music-demo)
 
 <hr/>
 
-####豆瓣电影H5(移动端)
+#### 豆瓣电影H5(移动端)
 手机端豆瓣电影，具备搜索电影排行榜，获取相关信息介绍。使用豆瓣公共API获取数据库。通过函数限流处理请求重复发送，利用懒加载实现下拉加载更多数据，用webpack进行打包对性能进行优化
 
 技术栈：jQuery+webpack，面向对象
 
-####[点击查看](https://zombrbrand.github.io/doubanMobile/dist)
+#### [点击查看](https://zombrbrand.github.io/doubanMobile/dist)
 
 <hr/>
 
-####瀑布流PC端
+#### 瀑布流PC端
 瀑布流具备载入loading，无限懒加载+函数节流，改变视口大小从新调整布局
 
 技术栈：jQuery，面向对象
 
-####[点击查看](https://zombrbrand.github.io/waterfall-/index.html)
-####[源码查看](https://github.com/ZombrBrand/waterfall-)
+#### [点击查看](https://zombrbrand.github.io/waterfall-/index.html)
+#### [源码查看](https://github.com/ZombrBrand/waterfall-)
 <hr/>
 
-####组件化轮播PC端
+#### 组件化轮播PC端
 
 进行轮播封装组件化，无限轮播+自动轮播，使用面向对象继承方法实现
 
 技术栈:jQuery,面向对象继承
 
-####[点击查看](https://zombrbrand.github.io/component-carousel/)
-####[源码查看](https://github.com/ZombrBrand/component-carousel)
+#### [点击查看](https://zombrbrand.github.io/component-carousel/)
+#### [源码查看](https://github.com/ZombrBrand/component-carousel)
 
-####苹果官网轮播PC端
+#### 苹果官网轮播PC端
 
-####[点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
-####[源码查看](https://github.com/ZombrBrand/appleCarousel-demo)
+#### [点击查看](https://zombrbrand.github.io/appleCarousel-demo/Carousel.html)
+#### [源码查看](https://github.com/ZombrBrand/appleCarousel-demo)
 <hr/>
 
 
-####精美tab组件PC端
+#### 精美tab组件PC端
 
-####[点击查看地址](https://zombrbrand.github.io/tab-demo1/index.html)
-####[源码地址](https://github.com/ZombrBrand/popover-demo1)
+#### [点击查看地址](https://zombrbrand.github.io/tab-demo1/index.html)
+#### [源码地址](https://github.com/ZombrBrand/popover-demo1)
 
 <hr/>
 
 
-####多样式popover组件PC端
+#### 多样式popover组件PC端
 
-####[点击查看地址](https://zombrbrand.github.io/popover-demo1/index.html)
+#### [点击查看地址](https://zombrbrand.github.io/popover-demo1/index.html)
 
-####自制组件tab切换
+#### 自制组件tab切换
 
-####[源码地址](https://github.com/ZombrBrand/component-tab)
+#### [源码地址](https://github.com/ZombrBrand/component-tab)
 
-####自适应音乐电台
+#### 自适应音乐电台
 
 项目功能介绍：页面的响应式，音乐的播放暂停下一曲，不同音乐类型数据的获取,数据过多,切换下一页，歌词的处理
 
@@ -263,11 +263,11 @@
 
 技术栈关键字：HTML+CSS3++JavaScript+jQuery+AJAX+响应式+面向对象+事件中心
 
-####[源码地址](https://github.com/ZombrBrand/playerMusice)
+#### [源码地址](https://github.com/ZombrBrand/playerMusice)
 
-####瀑布流新闻网站
+#### 瀑布流新闻网站
 
-####[预览地址](http://jsbin.com/zobinoyite/2/edit?html,output)
+#### [预览地址](http://jsbin.com/zobinoyite/2/edit?html,output)
 
 ##我的技能
 
