@@ -10,6 +10,7 @@
 
 
 ![1](https://i.loli.net/2020/04/22/OmRlqdYz9S3gsHG.png)
+<img src="https://i.loli.net/2020/04/22/FUfeq7NLlBDHQO6.png" alt="app首页" style="zoom:50%;" />
 
 ## 项目经历
 #### 0. todo-mvc PC端
