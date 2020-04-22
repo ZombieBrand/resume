@@ -126,7 +126,9 @@
 
 #### [点击查看](http://jrxlp3.coding-pages.com/)
 #### [源码地址](https://github.com/ZombrBrand/vueyouzan)
+
 <hr/>
+
 #### todo-mvcPC端
 
 实现一个简单的todomvc支持添加删除和筛选。
@@ -269,7 +271,7 @@
 
 #### [预览地址](http://jsbin.com/zobinoyite/2/edit?html,output)
 
-##我的技能
+## 我的技能
 
 -静态页面制作技术
 -像素级还原设计稿，可以实现响应式以适应手机屏幕。
@@ -292,7 +294,7 @@
 -vue+wabpack搭建项目
 
 
-##联系方式
+## 联系方式
 
 手机:18510237943
 
