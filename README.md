@@ -9,10 +9,55 @@
 期望城市:北京
 
 
-
-
 ## 项目经历
-#### 中育未来(北京)科技有限公司（教育/规模500～1000） 					        	2019-04~至今
+
+#### 北京珞安科技有限责任公司 (B+轮融资)(工控安全/规模100~200)                  2020.05~至今
+**项目：**
+物联网控制系统
+
+防火墙控制系统重构
+
+![物联网接入控制系统1.png](https://i.loli.net/2020/11/01/b3GIaZfYNhFzpLs.png)
+
+![物联网接入控制系统2.png](https://i.loli.net/2020/11/01/IjgTXwnc9REuGS2.png)
+
+![物联网接入控制系统3.png](https://i.loli.net/2020/11/01/3rQYWmiOKsMEwnu.png)
+
+![珞安工业防火墙1.png](https://i.loli.net/2020/11/01/1pSzoq5dTuaEL8G.png)
+
+![珞安工业防火墙2.png](https://i.loli.net/2020/11/01/XOkGFbeHWizSuqA.png)
+
+![珞安工业防火墙3.png](https://i.loli.net/2020/11/01/asIAvtQJOqWG9dl.png)
+
+![珞安工业防火墙4.png](https://i.loli.net/2020/11/01/qWx8tzLUegbCKOn.png)
+
+![珞安工业防火墙5.png](https://i.loli.net/2020/11/01/82pd5S6MfxgDBoC.png)
+
+![珞安工业防火7.png](https://i.loli.net/2020/11/01/qxaRZWBNjSQHrhE.png)
+
+·   主要职责开发物联网控制系统开发，和防火墙控制系统重构开发工作
+
+·   项目使用vue-cli+axios+element-ui模块化开发
+
+·   代码风格使用eslint+pretter
+
+·   版本管理和仓库管理使用git
+
+·   构建工具使用webpack
+
+·   yapi接口文档管理平台搭建，项目架构搭建，公司总平台对接，以及业务开发
+
+·   数据可视化使用antv和echarts
+
+·   项目采用gzip压缩协议提高加载速度，使用nginx代理解决跨域问题，使用mockjs前后端分离开发，使用Modern mode针对现代浏览器构建应用，自动向后兼容
+
+·   物联网控制系统主要开发功能：用户管理包含权限控制等，设备管理，策略配置，安全预警，系统配置，网络拓扑，数据统计等。
+
+·   防火墙控制系统重构主要开发功能：事件信息，网络设置，设备管理，数据可视化等。
+
+<hr/>
+
+#### 中育未来(北京)科技有限公司（教育/规模500～1000） 					       2019-04~2020.05
 **项目：**
 
 [中育未来官网PC](http://www.t-xianghu.com)
